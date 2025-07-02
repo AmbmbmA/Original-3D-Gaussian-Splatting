@@ -15,3 +15,7 @@ diff_rasterization/dist/
 
 # Datasets 
 data/
+
+
+# Viewers
+viewers/
